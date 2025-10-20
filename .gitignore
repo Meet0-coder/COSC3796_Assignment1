@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+keys_Alice/private_key.pem
+keys_Bob/private_key.pem
+messages_Alice.json
+messages_Bob.json
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
